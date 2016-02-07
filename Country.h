@@ -23,6 +23,7 @@ class Country {
         int getOil();
         int getRice();
         int getDiamonds();
+        int getPopulation(); 
         
     private:
         int soybeans;
@@ -38,6 +39,7 @@ class Country {
         int oil;
         int rice;
         int diamonds;
+        int Population
 };
 
 #endif
