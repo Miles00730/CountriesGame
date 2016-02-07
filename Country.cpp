@@ -41,3 +41,5 @@ int Country::getRice() {
 int Country::getDiamonds() {
     return diamonds;
 }
+int Country::getPopulation(){ 
+    return Population; } 
